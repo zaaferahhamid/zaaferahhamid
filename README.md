@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Zaaferah Hamid
 
-<!--
-**zaaferahhamid/zaaferahhamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.S. Computer Science student with a background in chemistry and biochemistry research.
 
-Here are some ideas to get you started:
+Interests:
+- Software Development
+- Scientific Computing
+- Bioinformatics
+- Data Analysis
+- Computational Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages:
+Python • C++ • SQL • JavaScript • MATLAB
+
+Currently:
+- Graduate Research Assistant at UWF
+- Building programming and research projects
