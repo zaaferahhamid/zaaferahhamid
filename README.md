@@ -1,6 +1,6 @@
 # Hi, I'm Zaaferah Hamid
 
-M.S. Computer Science student with a background in chemistry and biochemistry research.
+M.S. Computer Science graduate with a background in chemistry and biochemistry research.
 
 Interests:
 - Software Development
@@ -13,5 +13,5 @@ Languages:
 Python • C++ • SQL • JavaScript • MATLAB
 
 Currently:
-- Graduate Research Assistant at UWF
-- Building programming and research projects
+-  Open to work
+-  Building programming and research projects
